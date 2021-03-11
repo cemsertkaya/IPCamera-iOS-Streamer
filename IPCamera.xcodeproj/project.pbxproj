@@ -16,7 +16,6 @@
 		1A7E8C561CC0005800EFE574 /* StreamingSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7E8C551CC0005800EFE574 /* StreamingSession.swift */; };
 		1A7E8C5B1CC0009500EFE574 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7E8C571CC0009500EFE574 /* Queue.swift */; };
 		93DE98311FDEB62A0048600F /* IPChecker.m in Sources */ = {isa = PBXBuildFile; fileRef = 93DE98301FDEB62A0048600F /* IPChecker.m */; };
-		B24F82E125FA8D7A008B283F /* CameraSettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24F82DC25FA7D90008B283F /* CameraSettingViewController.swift */; };
 		DBBC8A34D4D097FD5BB5ACB6 /* Pods_IPCamera.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 549DB90D634F5A2FB562CC04 /* Pods_IPCamera.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,7 +35,6 @@
 		549DB90D634F5A2FB562CC04 /* Pods_IPCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IPCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93DE982F1FDEB62A0048600F /* IPChecker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPChecker.h; sourceTree = "<group>"; };
 		93DE98301FDEB62A0048600F /* IPChecker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPChecker.m; sourceTree = "<group>"; };
-		B24F82DC25FA7D90008B283F /* CameraSettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraSettingViewController.swift; sourceTree = "<group>"; };
 		B24F82E825FA8EBD008B283F /* IPCamera-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IPCamera-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,7 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				1A7E8C531CBFFF9A00EFE574 /* CameraViewController.swift */,
-				B24F82DC25FA7D90008B283F /* CameraSettingViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -290,7 +287,6 @@
 				93DE98311FDEB62A0048600F /* IPChecker.m in Sources */,
 				1A7E8C391CBFFC7400EFE574 /* AppDelegate.swift in Sources */,
 				1A7E8C541CBFFF9A00EFE574 /* CameraViewController.swift in Sources */,
-				B24F82E125FA8D7A008B283F /* CameraSettingViewController.swift in Sources */,
 				1A7E8C561CC0005800EFE574 /* StreamingSession.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
