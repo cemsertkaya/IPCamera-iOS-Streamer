@@ -1,0 +1,25 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - CocoaMQTT (1.2.5):
+    - CocoaAsyncSocket (~> 7.6.3)
+  - MSWeakTimer (1.1.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - CocoaMQTT
+  - MSWeakTimer
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - CocoaMQTT
+    - MSWeakTimer
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  CocoaMQTT: a61490ed3b328011c5d75169a77781983e2bb221
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+
+PODFILE CHECKSUM: 8aaa51835a5e512c76a018ad569f8c29aed50d90
+
+COCOAPODS: 1.10.0
